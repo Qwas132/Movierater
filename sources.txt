@@ -1,0 +1,3 @@
+src/main/java/movierater/Main.java
+src/main/java/movierater/DatabaseManager.java
+src/main/java/movierater/MovieRaterService.java
