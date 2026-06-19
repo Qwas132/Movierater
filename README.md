@@ -34,6 +34,7 @@ The SQLite database file (`movierater.db`) is created automatically in the worki
 ---
 
 ## How to Run
+Download and unzip MovieRaterV1
 
 ### Linux / macOS
 
